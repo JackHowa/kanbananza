@@ -1,5 +1,5 @@
-import React from 'react';
-import MoveCardToList from './MoveCardToList';
+import React from "react";
+// import MoveCardToList from './MoveCardToList';
 
 const Card = ({ card = {}, listId }) => {
   return (
