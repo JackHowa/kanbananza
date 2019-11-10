@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+containers/.gitkeep
+lib/node_modules/flow-bin/cli.js
+lib/node_modules/flow-bin/index.js
+lib/node_modules/flow-bin/license
+lib/node_modules/flow-bin/package.json
+lib/node_modules/flow-bin/readme.md
+lib/node_modules/flow-bin/SHASUM256.txt
+lib/node_modules/flow-bin/flow-linux64-v0.111.3/flow
+lib/node_modules/flow-bin/flow-osx-v0.111.3/flow
+lib/node_modules/flow-bin/flow-win64-v0.111.3/flow.exe
+lib/node_modules/flow-bin/vendor/flow
