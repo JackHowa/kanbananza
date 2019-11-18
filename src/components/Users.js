@@ -9,7 +9,7 @@ const Users = ({ userIds = [] }) => {
       <h2>Users</h2>
       <CreateUser />
       {userIds.map(userId => (
-        <UserContainer userId={userId} />
+        <UserContainer key={userId} userId={userId} />
       ))}
     </section>
   );
